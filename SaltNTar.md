@@ -1,6 +1,16 @@
-% Salt'n'Tar
-% Wanderer Bill, CC BY-SA 4.0
-% Version 0.1
+---
+title: Salt'n'Tar
+author: Wanderer Bill, CC BY-SA 4.0
+date: Version 0.1
+classoption:
+- 12pt
+- a5paper
+geometry:
+- top=1cm
+- left=1cm
+- bottom=2cm
+- right=1cm
+---
 
 These rules for sailed movement on gaming tables are inspired by the
 1968 3M Game *Regatta*. Numbers are adjusted to work well with the
